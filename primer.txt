@@ -1,0 +1,14 @@
+fff heheh kkfndjsjdadsddddd 123 das
+
+git log --oneline --decorate --all
+git log --oneline --decorate --all
+git log --oneline --decorate --all
+giti log  --oneline --decorate --all
+git log --oneline --decorate --all
+git log --oneline --decorate --all
+git log --oneline --decoirate --all
+
+
+git checkout codigogit nombre.ext
+git chechout codigogit nombre.ext
+git checkout codigogit nombre.ext
